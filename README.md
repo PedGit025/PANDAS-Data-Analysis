@@ -1,6 +1,6 @@
 # WHAT
 
-##Showcase Data Analysis with Python Pandas with Lyric Genius API
+## Showcase Data Analysis with Python Pandas with Lyric Genius API
 
 # WHEN
 
