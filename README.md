@@ -4,7 +4,7 @@
 
 # WHEN
 
-## 1st sem Masters
+### 1st sem Masters
 
 
-# Thanks to Alseo Earl Abraham (alseo.abraham@dlsu.edu.ph) for the tests
+### Thanks to Alseo Earl Abraham (alseo.abraham@dlsu.edu.ph) for the tests
